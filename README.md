@@ -1,3 +1,3 @@
 # eoswallet
 
-a simple eos wallet
+a simple eos cold wallet
